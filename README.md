@@ -27,9 +27,10 @@ This project was developed using the Java programming language, applying various
 - Method overloading
 - Lists
 
-Project Status
 The "Chess System" project is currently under development, with continuous updates as new concepts are learned and applied.
+
 ---
+
 Descrição
 O projeto "Chess System" é uma implementação de um jogo de xadrez, desenvolvido para aplicar os conhecimentos adquiridos no curso Java Completo ministrado pelo Professor Nélio Alves, da Udemy. O sistema permite que dois jogadores disputem uma partida na mesma máquina.
 
@@ -57,5 +58,4 @@ Este projeto foi desenvolvido utilizando a linguagem Java, aplicando diversos co
 - Sobrecarga de métodos
 - Listas
 
-Estado do Projeto
 O projeto "Chess System" está atualmente em desenvolvimento, com atualizações contínuas conforme novos conceitos são aprendidos e aplicados.
