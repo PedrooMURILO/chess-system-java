@@ -27,7 +27,7 @@ This project was developed using the Java programming language, applying various
 - Method overloading
 - Lists
 
-The "Chess System" project is currently under development, with continuous updates as new concepts are learned and applied.
+The "Chess System" project is completed.
 
 ---
 
@@ -58,4 +58,4 @@ Este projeto foi desenvolvido utilizando a linguagem Java, aplicando diversos co
 - Sobrecarga de métodos
 - Listas
 
-O projeto "Chess System" está atualmente em desenvolvimento, com atualizações contínuas conforme novos conceitos são aprendidos e aplicados.
+O projeto "Chess System" está concluído.
